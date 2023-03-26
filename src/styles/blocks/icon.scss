@@ -37,18 +37,18 @@
   }
 
   &--menu {
-    background-image: url(/images/dest/menu.svg);
+    background-image: url(../images/dest/menu.svg);
 
     &:hover {
-      background-image: url(/images/dest/menu_hover.svg);
+      background-image: url(../images/dest/menu_hover.svg);
     }
   }
 
   &--phone {
-    background-image: url(/images/dest/phone.svg);
+    background-image: url(../images/dest/phone.svg);
   }
 
   &--cross {
-    background-image: url(/images/dest/cross.svg);
+    background-image: url(../images/dest/cross.svg);
   }
 }

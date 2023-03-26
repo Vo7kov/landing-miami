@@ -703,16 +703,16 @@
   pointer-events: all;
 }
 .icon--menu {
-  background-image: url(/images/dest/menu.svg);
+  background-image: url(../images/dest/menu.svg);
 }
 .icon--menu:hover {
-  background-image: url(/images/dest/menu_hover.svg);
+  background-image: url(../images/dest/menu_hover.svg);
 }
 .icon--phone {
-  background-image: url(/images/dest/phone.svg);
+  background-image: url(../images/dest/phone.svg);
 }
 .icon--cross {
-  background-image: url(/images/dest/cross.svg);
+  background-image: url(../images/dest/cross.svg);
 }
 
 .link {
@@ -740,7 +740,7 @@
 .header {
   background-size: cover;
   background-position: center;
-  background-image: url(/images/dest/header.jpg);
+  background-image: url(../images/dest/header.jpg);
 }
 .header__content {
   display: -webkit-box;
@@ -1171,7 +1171,7 @@
           align-items: flex-end;
   height: 320px;
   padding-bottom: 24px;
-  background-image: url(/images/dest/footer.jpg);
+  background-image: url(../images/dest/footer.jpg);
   background-size: cover;
   background-position: center;
 }
